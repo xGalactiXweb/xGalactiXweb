@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm GalactiX</h1>
-<h3 align="center">I'm passionate about it sciences.</h3>
+### Hi there 👋, my name is GalactiX
+![](https://cdn.discordapp.com/attachments/1074483615108431913/1074497111376269452/image.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzinovich&label=Profile%20views&color=0e75b6&style=flat" alt="GalactiX" /> </p>
+J'adore l'informatique ainsi que la recherche d'informations en open source (osint)
 
-- 🌱 I’m currently learning **C#**
+Skills: PYTHON/HTML/CSS/OSINT
 
-- 👨‍💻 All of my projects are available at [https://github.com/xGalactiXweb]
+- 🌱 I’m currently learning La cybersecurité 
+- 💬 Ask me about le code 
+- 📫 How to reach me: discord.gg/ghdb 
+- 😄 Pronouns:  Seigneur 
 
-- 💬 Ask me about **Coding**
 
-- ⚡ Fun fact **I'm Young**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GalactiX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https:://pornhub.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/ghdb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://discord.gg/ghdb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='windows' height='40'>](https://discord.gg/ghdb)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://pornhub.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keeperverse" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GalactiX&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GalactiX&show_icons=true&locale=en&layout=compact" alt="GalactiX /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalactiXh&show_icons=true&locale=en" alt="GalactiX" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GalactiX&" alt="GalactiX" /></p>
-
+![Profile views](https://gpvc.arturio.dev/GalactiX)  
